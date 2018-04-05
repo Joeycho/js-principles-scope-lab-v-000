@@ -22,9 +22,9 @@ function changeLeastFavoriteCustomer(){
 
 
 function attemptTwoFavoriteCustomers(){
-//  le favoriteCustomer = 'other';
+  let favoriteCustomer = 'other';
 //   const favoriteCustomer =='like'
-  //favoriteCustomer = 'other';
+  let favoriteCustomer = 'other';
 //   var 'another'= favoriteCustomer;
 
 }
